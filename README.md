@@ -16,5 +16,6 @@ Fauna-DB Version
 Steps to reproduce
 
 ```bash
+yarn install
 yarn preview:watch
 ```
